@@ -48,5 +48,25 @@
       "c":"Mahatma Gandhi",
       "d":"Sunil Singh",
       "Ans":"Mahatma Gandhi"
+   },
+   "q6":{
+      "q":"What is the capital of Keral"
+   },
+   "opt6":{
+      "a":"Lakhnaw",
+      "b":"Gandhinagar",
+      "c":"Chandigarh",
+      "d":"Trivendram",
+      "Ans":"Trivendram"
+   },
+   "q7":{
+      "q":"What is the source of vitamin C"
+   },
+   "opt7":{
+      "a":"Water mellon",
+      "b":"Apple",
+      "c":"Orange",
+      "d":"Banana",
+      "Ans":"Orange"
    }
 }]
