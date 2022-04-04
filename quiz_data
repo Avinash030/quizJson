@@ -1,72 +1,72 @@
-[{
-   "q1":{
-      "q":"Who is first primminister of India"
+[
+   {
+      "q1":"Who is first primminister of India",
+      "opt1":{
+         "a":"Dr. Rajendra Prasad",
+         "b":"Jwahar Lal Nehru",
+         "c":"Lal Bahudar Shastri",
+         "d":"Manmohan Singh",
+         "Ans":"Jwahar Lal Nehru"
+      }
    },
-   "opt1":{
-      "a":"Dr. Rajendra Prasad",
-      "b":"Jwahar Lal Nehru",
-      "c":"Lal Bahudar Shastri",
-      "d":"Manmohan Singh",
-      "Ans":"Jwahar Lal Nehru"
+   {
+      "q2":"Who is first president of India",
+      "opt2":{
+         "a":"Dr. Rajendra Prasad",
+         "b":"Jwahar Lal Nehru",
+         "c":"Lal Bahudar Shastri",
+         "d":"Manmohan Singh",
+         "Ans":"Dr. Rajendra Prasad"
+      }
    },
-   "q2":{
-      "q":"Who is first president of India"
+   {
+      "q3":"Who is current primminister of India",
+      "opt3":{
+         "a":"Narendra Modi",
+         "b":"Jwahar Lal Nehru",
+         "c":"Lal Bahudar Shastri",
+         "d":"Manmohan Singh",
+         "Ans":"Narendra Modi"
+      }
    },
-   "opt2":{
-      "a":"Dr. Rajendra Prasad",
-      "b":"Jwahar Lal Nehru",
-      "c":"Lal Bahudar Shastri",
-      "d":"Manmohan Singh",
-      "Ans":"Dr. Rajendra Prasad"
+   {
+      "q4":"Who is current president of India",
+      "opt4":{
+         "a":"Dr. Rajendra Prasad",
+         "b":"Ram Nath Kovind",
+         "c":"A.P.J Abdul Kalam",
+         "d":"Manmohan Singh",
+         "Ans":"Ram Nath Kovind"
+      }
    },
-   "q3":{
-      "q":"Who is current primminister of India"
+   {
+      "q5":"Who is the father of nation of India",
+      "opt5":{
+         "a":"Nitin Gadkari",
+         "b":"Ram Nath Kovind",
+         "c":"Mahatma Gandhi",
+         "d":"Sunil Singh",
+         "Ans":"Mahatma Gandhi"
+      }
    },
-   "opt3":{
-      "a":"Narendra Modi",
-      "b":"Jwahar Lal Nehru",
-      "c":"Lal Bahudar Shastri",
-      "d":"Manmohan Singh",
-      "Ans":"Narendra Modi"
+   {
+      "q6":"What is the capital of Keral",
+      "opt6":{
+         "a":"Lakhnaw",
+         "b":"Gandhinagar",
+         "c":"Chandigarh",
+         "d":"Trivendram",
+         "Ans":"Trivendram"
+      }
    },
-   "q4":{
-      "q":"Who is current president of India"
-   },
-   "opt4":{
-      "a":"Dr. Rajendra Prasad",
-      "b":"Ram Nath Kovind",
-      "c":"A.P.J Abdul Kalam",
-      "d":"Manmohan Singh",
-      "Ans":"Ram Nath Kovind"
-   },
-   "q5":{
-      "q":"Who is the father of nation of India"
-   },
-   "opt5":{
-      "a":"Nitin Gadkari",
-      "b":"Ram Nath Kovind",
-      "c":"Mahatma Gandhi",
-      "d":"Sunil Singh",
-      "Ans":"Mahatma Gandhi"
-   },
-   "q6":{
-      "q":"What is the capital of Keral"
-   },
-   "opt6":{
-      "a":"Lakhnaw",
-      "b":"Gandhinagar",
-      "c":"Chandigarh",
-      "d":"Trivendram",
-      "Ans":"Trivendram"
-   },
-   "q7":{
-      "q":"What is the source of vitamin C"
-   },
-   "opt7":{
-      "a":"Water mellon",
-      "b":"Apple",
-      "c":"Orange",
-      "d":"Banana",
-      "Ans":"Orange"
+   {
+      "q7":"What is the source of vitamin C",
+      "opt7":{
+         "a":"Water mellon",
+         "b":"Apple",
+         "c":"Orange",
+         "d":"Banana",
+         "Ans":"Orange"
+      }
    }
-}]
+]
