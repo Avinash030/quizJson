@@ -68,5 +68,35 @@
          "d":"Banana",
          "Ans":"Orange"
       }
+   },
+   {
+      "q8":"The members of the Rajya Sabha are elected by",
+      "opt8":{
+         "a":"the people",
+         "b":"Lok Sabha",
+         "c":"Elected members of the legislative assembly",
+         "d":"Elected members of the legislative council",
+         "Ans":"Elected members of the legislative assembly"
+      }
+   },
+    {
+      "q9":"The minimum age to qualify for election to the Lok Sabha is",
+      "opt9":{
+         "a":"25 years",
+         "b":"21 years",
+         "c":"35 years",
+         "d":"18 years",
+         "Ans":"25 years"
+      }
+   },
+   {
+      "q10":"The minimum age of the voter in India is",
+      "opt10":{
+         "a":"15 years",
+         "b":"21 years",
+         "c":"30 years",
+         "d":"18 years",
+         "Ans":"18 years"
+      }
    }
 ]
