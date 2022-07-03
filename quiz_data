@@ -97,6 +97,15 @@
          "c":"30 years",
          "d":"18 years",
          "Ans":"18 years"
+      },
+       {
+      "q10":"Who is the richest person in 2022",
+      "opt10":{
+         "a":"Mukesh Ambani",
+         "b":"Gautam Adani",
+         "c":"Elon R Musk",
+         "d":"Jeff Bezos",
+         "Ans":"Elon R Musk"
       }
    }
 ]
