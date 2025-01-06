@@ -108,5 +108,25 @@
          "d":"Jeff Bezos",
          "Ans":"Elon R Musk"
       }
+   },
+{
+      "q12":"Who is the Chief Minister of Jharkhand",
+      "opt12":{
+         "a":"Mohan Yadav",
+         "b":"Hemant Soren",
+         "c":"Gita Soren",
+         "d":"Champai Soren",
+         "Ans":"Hemant Soren"
+      }
+   },
+   {
+   "q13":"Who is the Governor of Jharkhand",
+      "opt13":{
+         "a":"Santosh Gangwar",
+         "b":"C.P Radhakrishnan",
+         "c":"Ramesh Bais",
+         "d":"Ved Marwah",
+         "Ans":"Santosh Gangwar"
+      }
    }
 ]
